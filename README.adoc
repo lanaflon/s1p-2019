@@ -1,6 +1,6 @@
 == s1p-2019
 Projects for Spring One Platform 2019
-
+https://youtu.be/BFcoFu-udQA
 === Event-Driven Architectures for Spring Developers
 
 ==== Overview
